@@ -1,0 +1,23 @@
+{
+  "blockId": "ISIBcZcLOfL6wVicg8OLn",
+  "name": "testP1pack",
+  "type": "package",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_testP1pack"
+  },
+  "parentBlockIDs": [
+    "wlGWI5e2jCNEqWDsZYig-"
+  ],
+  "repoType": "mono",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "dependencies": {
+    "testP1API2": {
+      "directory": "testP1API2"
+    }
+  }
+}
