@@ -3,8 +3,8 @@
   "name": "testP1pack",
   "type": "package",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/Athuln/testP1.git",
+    "ssh": "git@github.com:Athuln/testP1.git",
     "branch": "block_testP1pack"
   },
   "parentBlockIDs": [
